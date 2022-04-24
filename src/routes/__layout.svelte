@@ -1,9 +1,18 @@
 <script>
     import { page } from '$app/stores';
+    import { goto } from '$app/navigation';
     let path;
 
     $: path = $page.url.pathname;
+
+    const preserveScroll = (url) => {
+        goto(url, {
+            noscroll: true,
+        });
+    };
 </script>
+
+
 
 <header>
     <div class="name">
@@ -21,9 +30,13 @@
     
     <img id="mainImage" src="/bilde.jpg" alt="Thor Christian sitter på huk ved siden av en tøff bil"/>
     {#if path == "/"}
-        <a id="navLink" href="/cv">Se CV</a>
-    {:else}
-        <a id="navLink" href="/">Se prosjekter</a>
+        <a id="navLink" href="/cv" on:click|preventDefault={() => preserveScroll("/cv")}>
+            Se CV
+        </a>
+        {:else}
+        <a id="navLink" href="/" on:click|preventDefault={() => preserveScroll("/")}>
+            Se prosjekter
+        </a>
     {/if}
 </header>
 
