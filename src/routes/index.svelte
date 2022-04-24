@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>thorcc</title>
+</svelte:head>
+
 <section class="projects">
     <h2>Prosjekter</h2>
     <div>

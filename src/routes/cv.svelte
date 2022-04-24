@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>thorcc - cv</title>
+</svelte:head>
+
 <script>
     let hidden = true;
     const hiddenstring = {
