@@ -9,7 +9,7 @@
             <h3>Portefølje for Roger Wagland</h3>
             <a target="_blank" href="https://wagland.art/">
                 <p>wagland.art</p>
-                <img src="wagland-500.jpg" alt="">
+                <img src="wagland-500.jpg" alt="Portefølje for Roger Wagland">
             </a>
             <p>Portefølje for billedkunsteneren Roger Wagland. Laget med React og Firebase.</p>
             <a target="_blank" href="https://github.com/thorcc/wagland-art-react">
@@ -20,7 +20,7 @@
             <h3>Portefølje for Jonas Ropstad</h3>
             <a target="_blank" href="https://jonasropstad.netlify.com/">
                 <p>jonasropstad.netlify.com</p>
-                <img src="jonas-500.jpg" alt="">
+                <img src="jonas-500.jpg" alt="Portefølje for Jonas Ropstad">
             </a>
             <p>Portefølje for billedkunsteneren Jonas Ropstad. Laget med Gatsby og Contentful.</p>
             <a target="_blank" href="https://github.com/thorcc/jonas-portefolje">
@@ -31,7 +31,7 @@
             <h3>Artistbildesøk</h3>
             <a target="_blank" href="https://artist-img.glitch.me/">
                 <p>artist-img.glitch.me</p>
-                <img src="artist-500.jpg" alt="">
+                <img src="artist-500.jpg" alt="Artistbildesøk">
             </a>
             <p>Veldig enkel søkemotor for artistbilder. Laget med HTML, CSS, Node og Spotifys API.</p>
             <a target="_blank" href="https://glitch.com/edit/#!/artist-img">
@@ -42,7 +42,7 @@
             <h3>Sandvika.it</h3>
             <a target="_blank" href="https://sandvika.it/">
                 <p>sandvika.it</p>
-                <img src="sandvika-500.jpg" alt="">
+                <img src="sandvika-500.jpg" alt="Sandvika.it">
             </a>
             <p>Digital lærebok for IT1. Laget med Markdown og Docsify.</p>
             <a target="_blank" href="https://github.com/sandvika-VGS/sandvika-VGS.github.io/">
@@ -53,7 +53,7 @@
             <h3>Flask-VGS</h3>
             <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=thorcc.flask-vgs&ssr=false#review-details">
                 <p>marketplace.visualstudio.com/flask-vgs</p>
-                <img src="flask-vgs-500.jpg" alt="">
+                <img src="flask-vgs-500.jpg" alt="Flask-VGS">
             </a>
             <p>Utvidelse til VS Code som lar brukere enkelt opprette Flask-prosjekter. Laget med Javascript.</p>
             <a target="_blank" href="https://github.com/thorcc/flask-vgs-vscode-extension">
@@ -64,7 +64,7 @@
             <h3>Setify</h3>
             <a target="_blank" href="https://setify.netlify.app">
                 <p>setify.netlify.app</p>
-                <img src="setify-500.jpg" alt="">
+                <img src="setify-500.jpg" alt="Setify">
             </a>
             <p>En webapp som lager Spotify-spillelister fra setlister. Laget med React, og API-er fra Spotify, Setlist.FM og Musicbrainz.</p>
             <a target="_blank" href="https://github.com/thorcc/flask-vgs-vscode-extension">
