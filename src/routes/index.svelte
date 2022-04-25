@@ -11,7 +11,7 @@
                 <p>wagland.art</p>
                 <img src="wagland-500.jpg" alt="Portefølje for Roger Wagland">
             </a>
-            <p>Portefølje for billedkunsteneren Roger Wagland. Laget med React og Firebase.</p>
+            <p>Portefølje for billedkunstneren Roger Wagland. Laget med React og Firebase.</p>
             <a target="_blank" href="https://github.com/thorcc/wagland-art-react">
                 <p>Se koden på github</p>
             </a>
@@ -22,7 +22,7 @@
                 <p>jonasropstad.netlify.com</p>
                 <img src="jonas-500.jpg" alt="Portefølje for Jonas Ropstad">
             </a>
-            <p>Portefølje for billedkunsteneren Jonas Ropstad. Laget med Gatsby og Contentful.</p>
+            <p>Portefølje for billedkunstneren Jonas Ropstad. Laget med Gatsby og Contentful.</p>
             <a target="_blank" href="https://github.com/thorcc/jonas-portefolje">
                 <p>Se koden på github</p>
             </a>
