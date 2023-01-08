@@ -53,7 +53,7 @@
       <ul>
         <li>Webutvikling - HTML, CSS, Javascript, Node, ReactJS, NextJS, Gatsby, Svelte, SvelteKit ++</li>
         <li>Databaser og CMS - SQL, Firebase, Sanity, Supabase</li>
-        <li>Docker</li>
+        <li>Server og virtualisering - Linux, Bash, Docker</li>
         <li>Ingeniørarbeid - KBE (AML), 3D-modellering, algoritmer og datastrukturer</li>
         <li>Multimedier - Photoshop, Illustrator, XD, Premiere Pro, Audition</li>
       </ul>
